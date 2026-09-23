@@ -8,7 +8,7 @@ Este projeto é uma API simples criada para ajudar no controle de inventário e 
 ## Tecnologias Utilizadas
 * Node.js
 * Express
-* Módulo FS (nativo do Node para salvar arquivos)
+
 
 ## Como Instalar e Rodar o Projeto
 1. Baixe os arquivos do projeto para o seu computador.
