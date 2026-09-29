@@ -93,7 +93,6 @@ Mãos a obra ...
     - Pressione **Enter no terminal** para executar o último comando
 - 3 Apenas o README.md é criado e enviado para o repositório
     - Envie os outros aquivos fazendo commit pelo VsCode
-    - ![Commit](./commit.png)
 - 4 Continue codificando e fazendo commits aos poucos.
 
 
